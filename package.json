@@ -9,7 +9,7 @@
     "build": "./node_modules/.bin/webpack"
   },
   "devDependencies": {
-    "html-webpack-plugin": "^2.30.1",
+    "html-webpack-plugin": "^5.5.0",
     "redux": "^3.7.2",
     "vue": "^2.5.8",
     "vue-loader": "^13.5.0",
